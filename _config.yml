@@ -15,7 +15,8 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
 
 author:
   name:           'Hongseok Kim'
-  url:            https://twitter.com/fongandrewc
+  email:          jk4986@naver.com
+  url:            https://Hong3eee.github.io
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -34,4 +35,4 @@ sidebar_home_link:  true
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/fongandrew/hydeout
+  repo:             https://github.com/Hong3eee
