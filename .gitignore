@@ -3,6 +3,15 @@ _gh_pages
 _site
 .ruby-version
 
+## Jekyll stuff
+/_site/
+_site/
+.sass-cache/
+.jekyll-metadata
+.jekyll
+Gemfile
+Gemfile.lock
+
 # Numerous always-ignore extensions
 *.diff
 *.err
