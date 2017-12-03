@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Markdown??
-category: etc
+categories:
+  - etc
 tags: Markdown, etc
 ---
 
@@ -106,13 +107,14 @@ a = []
 a.append(10)
 print(a)
 ```
-<pre><code>
+
+~~~
 ```python
 a = []
 a.append(10)
 print(a)
 ```
-</code></pre>
+~~~
 
 ### 10. 표
 

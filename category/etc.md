@@ -1,5 +1,6 @@
 ---
 layout: category
 title: etc
-category: My Category
 ---
+
+잡다한 것들 모음.
