@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Categort testtt
+title: etc
 category: My Category
 ---
