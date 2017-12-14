@@ -4,6 +4,7 @@ title: Markdown??
 categories:
   - etc
 tags: Markdown, etc
+comments: true
 ---
 
 Markdown 에 대해서 이 블로그를 만들면서 처음 듣게 됐다.  
