@@ -3,7 +3,7 @@ layout: post
 title: re , queue module
 categories:
 - etc
-tags: Python, programming
+tags: Python programming
 commnets: true
 ---
 

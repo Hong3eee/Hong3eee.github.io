@@ -3,7 +3,7 @@ layout: post
 title: Markdown??
 categories:
   - etc
-tags: Markdown, etc
+tags: Markdown etc
 comments: true
 ---
 

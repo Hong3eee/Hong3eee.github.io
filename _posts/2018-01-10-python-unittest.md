@@ -3,7 +3,7 @@ layout: post
 title: python unittest
 categories:
 - etc
-tags: Python, programming
+tags: Python programming
 commnets: true
 ---
 
