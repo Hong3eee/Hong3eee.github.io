@@ -4,7 +4,7 @@ title: SW-Expert-no.1859
 categories:
 - etc
 tags: algorithms programming
-commnets: true
+comments: true
 ---
 
 ### 문제

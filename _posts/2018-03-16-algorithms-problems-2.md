@@ -4,7 +4,7 @@ title: BaekJoon-no.9012
 categories:
 - etc
 tags: algorithms programming
-commnets: true
+comments: true
 ---
 
 ### 문제

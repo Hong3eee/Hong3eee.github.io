@@ -4,7 +4,7 @@ title: STL stack 사용법
 categories:
 - algorithms
 tags: algorithms data-structure STL
-commnets: true
+comments: true
 ---
 
 스택 Stack
@@ -25,7 +25,7 @@ commnets: true
 
 int main(){
 
-	stack<Type> var;
+	stack<Type> stack;
 
 	stack.push(~~);
 	stack.pop();
@@ -38,8 +38,8 @@ int main(){
 ```
 
 - push() : data를 스택에 삽입, 스택의 size는 +1 이 된다
-- pop() : 스택의 가장 위에 있는 data를 가져오면서 스택에서 삭제, size는 -1
-- top() : 스택의 가장 위에 있는 data를 가지오지만 스택에서 삭제는 안함
+- pop() : 스택의 가장 위에 있는 data를 스택에서 삭제, size는 -1
+- top() : 스택의 가장 위에 있는 data를 가지고 옴. 스택에서 삭제는 안함
 - empty() : 스택이 비어있는지, 아닌지 확인. 비어있을시 true 반환
 - size() : 스택의 현재 사이즈를 반환
 
