@@ -2,8 +2,8 @@
 layout: post
 title: BaekJoon-no.9012
 categories:
-- etc
-tags: algorithms programming
+- Algorithms
+tags: algorithms programming stack
 comments: true
 ---
 

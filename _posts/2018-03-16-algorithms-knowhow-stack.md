@@ -2,7 +2,7 @@
 layout: post
 title: STL stack 사용법
 categories:
-- algorithms
+- Algorithms
 tags: algorithms data-structure STL
 comments: true
 ---

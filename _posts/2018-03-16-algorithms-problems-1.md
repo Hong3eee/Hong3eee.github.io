@@ -2,7 +2,7 @@
 layout: post
 title: SW-Expert-no.1859
 categories:
-- etc
+- Algorithms
 tags: algorithms programming
 comments: true
 ---

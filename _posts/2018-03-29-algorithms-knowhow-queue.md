@@ -2,7 +2,7 @@
 layout: post
 title: STL queue 사용법
 categories:
-- algorithms
+- Algorithms
 tags: algorithms data-structure STL
 comments: true
 ---
