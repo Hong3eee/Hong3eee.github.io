@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BaekJoon-no.21562156
+title: BaekJoon-no.2156
 categories:
 - Algorithms
 tags: algorithms programming dp
