@@ -11,7 +11,7 @@ comments: true
 
 [문제링크](https://www.acmicpc.net/problem/1912)
 
-체감 난이도(1~5) : 2.5
+체감 난이도(1~5) : 2
 
 ### 풀이
 
