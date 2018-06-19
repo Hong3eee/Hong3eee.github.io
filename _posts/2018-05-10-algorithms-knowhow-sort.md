@@ -25,6 +25,7 @@ comments: true
 - sort(v.begin(),v.end(),greater<type>()) // 내림차순
 
 - sort(v.begin(),v.end(),cmp)  // 사용자 정의 함수
+
 ```c++
 bool cmp(const pair<int,int> &u, const pair<int,int> &v){
 	return (u.first>v.first);
