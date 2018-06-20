@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BaekJoon-no.9466 텀 프로젝
+title: BaekJoon-no.9466 텀 프로젝트
 categories:
 - Algorithms
 tags: algorithms programming dfs bfs
