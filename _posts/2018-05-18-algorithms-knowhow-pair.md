@@ -12,7 +12,7 @@ comments: true
 ### 정의
 
 - 두 데이터를 하나의 페어 객체로 묶어주는 클래스
-- <algorithm>,<utility> 헤더 파일에 속해있음. 
+- `<algorithm> , <utility>` 헤더 파일에 속해있음. 
 - 어떤 데이터들의 쌍을 표현할때 많이사용. x,y좌표 등
 - vector와 주로 사용함
 
