@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GIT 01. 기본 명령어들
+title: GIT 01. 첫걸음
 categories:
 - etc
 tags: Git
