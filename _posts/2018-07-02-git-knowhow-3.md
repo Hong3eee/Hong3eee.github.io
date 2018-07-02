@@ -80,11 +80,11 @@ hong3@ubuntu:~/gitfth$ git log --graph --decorate --branches --oneline
 - commit 을 생성하지 않음
 
 
-![branch1](/img/basic-branching-4.png)
+![branch1](/img/basic_branching_4.png)
 
 ---
 
-![branch2](/img/basic-branching-5.png)
+![branch2](/img/basic_branching_5.png)
 
 
 ---
@@ -98,11 +98,11 @@ master 와 B 브랜치의 공통의 조상을 찾음, 그 후 C4와 C5 커밋을
 - merge commit을 생성한다
 
 
-![merge1](/img/basic-merging-1.png)
+![merge1](/img/basic_merging_1.png)
 
 ---
 
-![merge2](/img/basic-merging-2.png)
+![merge2](/img/basic_merging_2.png)
 
 
 ### branch 병합 시 충돌해결
