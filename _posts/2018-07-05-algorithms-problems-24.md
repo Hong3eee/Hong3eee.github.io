@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AlgoSpot-Problem. QUADTREE
+title: AlgoSpot-Problem. Quadtree
 categories:
 - Algorithms
 tags: algorithms programming divide&conquer
