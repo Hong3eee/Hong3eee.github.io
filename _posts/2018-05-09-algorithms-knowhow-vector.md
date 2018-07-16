@@ -50,5 +50,7 @@ int main(){
 - v.end() : 마지막 원소 그 다음을 가르킴
 - v.size() : 원소의 갯수 리턴
 - v.empty() : 벡터가 비어있으면 true 리턴
+- v.erase(v.begin() + 1) : index = 1번째 원소 삭제
+- v.erase(v.begin() + 1, v.begin() + 3) : index = 1 ~ 3 번째까지 원소 삭제
 
 - ++ vector<int> a(10) 과 vector<int> a[10]은 매우 다르다! 전자는 크기가 10짜리인 vector를 하나 선언(=int a[10]) 인 반면 후자는 vector 원소를 10개 가지는 하나의 배열을 선언한 것이다 (=vector < vector < int > > a(10))

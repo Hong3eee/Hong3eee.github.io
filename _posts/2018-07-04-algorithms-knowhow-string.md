@@ -51,6 +51,8 @@ int main(){
 
 	str.compare(str2);	// 비교, 문자열이 같다면 0, str이 str2보다 앞선다면 음수값, 반대라면 양수값 리턴
 
+	str.erase(2,3);	// index = 2 부터 원소 3개 삭제
+
 
 
 	string() + "~~~~" // 이 방법으로 문자열 생성 가능, tip!
