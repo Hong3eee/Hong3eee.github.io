@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AlgoSpot-Problem. 두니발 박사의 탈옥
+title: AlgoSpot-Problem. 여행 짐 싸기
 categories:
 - Algorithms
 tags: algorithms programming dp
