@@ -3,7 +3,7 @@ layout: post
 title: STL Priority Queue 사용법
 categories:
 - Algorithms
-tags: algorithms priority_queue
+tags: algorithms stl container priority_queue
 comments: true
 ---
 

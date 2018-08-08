@@ -12,7 +12,7 @@ comments: true
 ### 정의
 
 - 어떠한 데이터들을 순서대로 배치시키는 것을 의미
-- <algorithm> 헤더 파일에 속해있음. [start,end) 범위의 인자를 정렬함
+- `<algorithm>` 헤더 파일에 속해있음. [start,end) 범위의 인자를 정렬함
 - STL sort() -> O(nlgn) 의 quick sort를 내부 함수로 구현, stable_sort() -> O(nlgn) 의 merge sort를 내부 함수로 구현했다.
 - 오름차순 정렬이 기본값
 
