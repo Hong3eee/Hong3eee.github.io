@@ -47,7 +47,7 @@ void bfs(int y,int x,int status){ //status = s 상태에 따라 벽을 얼마나
 
 			if(0<= nexty && nexty <n && 0 <= nextx && nextx < m)
 			{
-				if(arr[nexty][nextx] == 1 && check[s][nexty][nextx] == 0 && s < k)
+				if(arr[nexty][nextx] == 1 && check[s+1][nexty][nextx] == 0 && s < k)
 					// 전 노드를 통해서 이 벽을 부쉈는지 판별
 				{
 					check[s+1][nexty][nextx] = check[s][y][x] + 1;
